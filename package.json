@@ -1,0 +1,17 @@
+{
+  "name": "desafio-globosat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev1": "node desafio-1.js",
+    "dev2": "node desafio-2.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
