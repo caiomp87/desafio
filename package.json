@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev1": "node desafio-1.js",
-    "dev2": "node desafio-2.js"
+    "dev1": "node src/desafio-1.js",
+    "dev2": "node src/desafio-2.js"
   },
   "dependencies": {
     "axios": "^0.19.2",
